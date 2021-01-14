@@ -1,0 +1,34 @@
+span{
+    color: orange;
+    
+}
+.navbar-style{
+   
+    font-family: 'Roboto', sans-serif;
+}
+.movement{
+    margin-left: 200px;
+   
+}
+.size{
+    width: 100%;
+}
+.text-style{
+    font-size: 50px;
+}
+.nike-color{
+    color: rgb(219, 144, 3);
+}
+.infinity{
+    color: #2E4053;
+}
+.remove-border{
+    border: none;
+    
+}
+.color-change{
+    color: hsl(323, 29%, 25%) ;
+}
+.img-size{
+    width: 30%;
+}
